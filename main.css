@@ -13,5 +13,6 @@ h2 {
 }
 
 p {
-    border-left: thick double #14007c;
+    border-style: dashed;
+    padding: 10px;
 }
